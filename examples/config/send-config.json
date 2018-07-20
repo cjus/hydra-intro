@@ -1,0 +1,12 @@
+{
+  "hydra": {
+    "serviceName": "send",
+    "serviceIP": "",
+    "servicePort": 0,
+    "serviceType": "",
+    "serviceDescription": "message sender",
+    "redis": {
+      "url": "redis://127.0.0.1:6379/15"
+    }
+  }
+}
