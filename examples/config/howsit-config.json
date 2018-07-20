@@ -1,0 +1,12 @@
+{
+  "hydra": {
+    "serviceName": "howsit",
+    "serviceIP": "",
+    "servicePort": 0,
+    "serviceType": "",
+    "serviceDescription": "Eh, braddah, howsit!",
+    "redis": {
+      "url": "redis://127.0.0.1:6379/15"
+    }
+  }
+}

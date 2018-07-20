@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export STACK_NAME='hydra-intro'
+export STACK_NAME='test'
 
 mkdir -p ~/data/${STACK_NAME}/redis
 

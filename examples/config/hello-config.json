@@ -1,0 +1,12 @@
+{
+  "hydra": {
+    "serviceName": "hello",
+    "serviceIP": "",
+    "servicePort": 8080,
+    "serviceType": "",
+    "serviceDescription": "Hello Hydra",
+    "redis": {
+      "url": "redis://127.0.0.1:6379/15"
+    }
+  }
+}

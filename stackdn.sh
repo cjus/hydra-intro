@@ -1,3 +1,3 @@
 #!/bin/sh
-export STACK_NAME='hydra-intro'
+export STACK_NAME='test'
 docker stack rm ${STACK_NAME}
